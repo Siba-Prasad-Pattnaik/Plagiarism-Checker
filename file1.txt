@@ -1,0 +1,3 @@
+Machine learning is a subset of AI that involves training machines to learn from data without being
+explicitly programmed. This has enabled significant breakthroughs in areas such as natural language 
+processing, computer vision, and recommendation systems.

@@ -1,0 +1,3 @@
+A subtype of artificial intelligence (AI) called machine learning involves teaching computers to learn
+from data rather than being explicitly programmed. This has made substantial advancements possible in 
+fields including recommendation systems, computer vision, and natural language processing.
